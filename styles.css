@@ -1,0 +1,82 @@
+.box {
+  width: 500px;
+  height: 500px;
+  background-color: 
+#1cb5e0;
+  border-radius: 50%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 400px;
+  color: #FFFFFF;
+
+  --pink: #FF1C68;
+  --green: #14D790;
+  --blue: #198FE3;
+  --black: #21282D;
+  --purple: #9B65DE;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+.request-complement {
+	  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: black;
+
+  
+  
+ }
+
+.ball {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background:#421ff0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+  transform-origin: 50% 100%;
+  
+
+
+}
+
+.area {
+  width: 300px;
+  height: 300px;
+  
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+ 
+}
+
+p {
+	font-size: 25px; 
+
+}
+
+
+
+body {
+ background-image: url("https://img.wallpapersafari.com/desktop/1680/1050/32/50/MJh5AI.jpg");
+ background-color: #cccccc;
+}
+
+h1 {
+	
+}
